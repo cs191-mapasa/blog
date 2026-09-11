@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title:  "Project Plan"
 date:   2026-09-11
 ---
