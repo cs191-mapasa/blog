@@ -6,6 +6,6 @@ date:   2026-11-11
 [← Back to home]({{ '/' | relative_url }})
 # Software Demo
 
-[Link to document]({{ '/resources/vids/Software_Demo.mp4' | relative_url }})
+[Link to video]({{ '/resources/vids/Software_Demo.mp4' | relative_url }})
 
 
