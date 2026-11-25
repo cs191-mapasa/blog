@@ -7,5 +7,3 @@ date:   2026-11-11
 # Software Demo
 
 [Link to video]({{ '/resources/vids/Software_Demo.mp4' | relative_url }})
-
-

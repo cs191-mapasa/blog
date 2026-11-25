@@ -7,5 +7,3 @@ date:   2026-10-16
 # System Requirements
 
 [Link to document]({{ '/resources/pdfs/System_Requirements.pdf' | relative_url }})
-
-
